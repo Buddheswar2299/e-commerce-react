@@ -1,0 +1,21 @@
+    
+  .carousel-control-prev-icon , .carousel-control-next-icon{  
+    border: 2px solid;
+    background-color: black;
+    outline: none;
+    border-radius: 50%;
+  }
+
+  .content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 6rem; */
+  }
+  .col-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 9rem;
+  }
